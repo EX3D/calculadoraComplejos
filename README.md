@@ -1,7 +1,7 @@
 Calculadora_complejos
 
-Es una libreria diseñada para permitir operaciones entre numeros complejos,
-la cual en este momento soporta las operaciones basicas de suma, resta,
-multiplicacion y diviscion, dar el conjugado del numero y su modulo
+Es una librería diseñada para permitir operaciones entre numeros complejos,
+la cual en este momento soporta las operaciones básicas de suma, resta,
+multiplicación y división, dar el conjugado del numero y su módulo
 
-desarrollado por Ernesto Camacho Arroyave
+Desarrollado por Ernesto Camacho Arroyave
